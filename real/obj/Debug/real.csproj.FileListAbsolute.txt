@@ -1,0 +1,11 @@
+C:\2022 01 19\real\bin\Debug\real.exe.config
+C:\2022 01 19\real\bin\Debug\real.exe
+C:\2022 01 19\real\bin\Debug\real.pdb
+C:\2022 01 19\real\obj\Debug\real.csproj.AssemblyReference.cache
+C:\2022 01 19\real\obj\Debug\real.csproj.SuggestedBindingRedirects.cache
+C:\2022 01 19\real\obj\Debug\real.Form1.resources
+C:\2022 01 19\real\obj\Debug\real.Properties.Resources.resources
+C:\2022 01 19\real\obj\Debug\real.csproj.GenerateResource.cache
+C:\2022 01 19\real\obj\Debug\real.csproj.CoreCompileInputs.cache
+C:\2022 01 19\real\obj\Debug\real.exe
+C:\2022 01 19\real\obj\Debug\real.pdb
